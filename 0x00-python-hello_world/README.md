@@ -1,1 +1,1 @@
-shell Script, and Introduction to python script.
+Python and shell script

@@ -109,6 +109,7 @@ Your code should not be executed when imported
  
 Last but not least, your program should also handle big numbers. 
 Repo:
+![image](https://user-images.githubusercontent.com/99505029/171739618-f543a862-1e54-4773-ab40-d6b9ab9d7f5d.png)
 
 GitHub repository: alx-higher_level_programming
 Directory: 0x02-python-import_modules

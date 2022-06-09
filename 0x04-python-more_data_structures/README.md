@@ -141,9 +141,9 @@ Prototypes for functions written in this project:
   * All keys having the searched value are deleted.
   * Without importing modules.
 
-* **16. CPython #1: PyBytesObject
+* **16. CPython #1: PyBytesObject**
 
 ![image](https://user-images.githubusercontent.com/99505029/172753887-4f83ccf0-abe2-498c-ad79-ad94b3550e31.png)
 
-** * [103-python.c](./103-python.c): C functions that print basic information about
+ * [103-python.c](./103-python.c): C functions that print basic information about
   Python lists and Python bytes objects.

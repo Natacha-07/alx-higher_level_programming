@@ -1,8 +1,31 @@
 # SQL - Introduction
 
-This was my first project in which I began to work with SQL and relational
-databases. I began practicing introductory data definition and data
-manipulation language, making subqueries, and using functions.
+![image](https://user-images.githubusercontent.com/99505029/183819310-1bbbcefd-4f52-4952-9493-c0d0bca26e2b.png)
+
+## Learning Objectives
+
+* What’s a database
+
+* What’s a relational database
+
+* What does SQL stand for
+
+* What’s MySQL
+
+* How to create a database in MySQL
+
+* What does DDL and DML stand for
+
+* How to CREATE or ALTER a table
+
+* How to SELECT data from a table
+
+* How to INSERT, UPDATE or DELETE data
+
+* What are subqueries
+
+* How to use MySQL functions
+
 
 ## Usage :dolphin:
 
